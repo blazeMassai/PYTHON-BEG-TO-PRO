@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9d42fd4-f52a-4e9a-b775-be8bd55a34be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="b5f0d24a-4430-4046-b42d-1fe8486763fb" />
+  <component name="ProjectId" id="1uwGySgZZWLjkO3z8ilrBce4IKi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.20_iterators">
+    <configuration name="20_iterators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Beginner-to-Pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20_iterators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5_operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Beginner-to-Pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_operators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.20_iterators" />
+        <item itemvalue="Python.5_operators" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9d42fd4-f52a-4e9a-b775-be8bd55a34be" name="Default Changelist" comment="" />
+      <created>1625569491331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625569491331</updated>
+      <workItem from="1625569498971" duration="1413000" />
+      <workItem from="1625571396203" duration="2272000" />
+      <workItem from="1625718172996" duration="62000" />
+      <workItem from="1625721344964" duration="585000" />
+      <workItem from="1625741409182" duration="6314000" />
+      <workItem from="1626325977480" duration="3666000" />
+      <workItem from="1626331295807" duration="153000" />
+      <workItem from="1626407677055" duration="130000" />
+      <workItem from="1627383256234" duration="4725000" />
+      <workItem from="1627556733790" duration="2438000" />
+      <workItem from="1627617218924" duration="31000" />
+      <workItem from="1627887739117" duration="97000" />
+      <workItem from="1631781310688" duration="13902000" />
+      <workItem from="1631874820118" duration="6769000" />
+      <workItem from="1632208673317" duration="8020000" />
+      <workItem from="1634046693320" duration="606000" />
+      <workItem from="1634708548228" duration="5432000" />
+      <workItem from="1635144551201" duration="6306000" />
+      <workItem from="1635165956181" duration="2211000" />
+      <workItem from="1635231534897" duration="6711000" />
+      <workItem from="1636628877298" duration="5347000" />
+      <workItem from="1639464893499" duration="114000" />
+      <workItem from="1639465123882" duration="44000" />
+      <workItem from="1639470432512" duration="2010000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="784" y="88" key="#Notifications" timestamp="1627887760429">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="784" y="88" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1627887760429" />
+    <state x="980" y="175" key="FileChooserDialogImpl" timestamp="1627887834924">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="980" y="175" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1627887834924" />
+    <state width="756" height="222" key="GridCell.Tab.0.bottom" timestamp="1632229842059">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="756" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1632229842059" />
+    <state width="756" height="222" key="GridCell.Tab.0.center" timestamp="1632229842059">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="756" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1632229842059" />
+    <state width="756" height="222" key="GridCell.Tab.0.left" timestamp="1632229842059">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="756" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1632229842059" />
+    <state width="756" height="222" key="GridCell.Tab.0.right" timestamp="1632229842059">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="756" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1632229842059" />
+    <state x="461" y="52" key="SettingsEditor" timestamp="1627617248067">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="461" y="52" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1627617248067" />
+    <state x="789" y="280" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1625569904917">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="789" y="280" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1600.860@0.0.1600.860" timestamp="1625569904917" />
+    <state x="863" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1632232507791">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="863" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1632232507791" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Beginner_to_Pro$5_operators.coverage" NAME="5_operators Coverage Results" MODIFIED="1631784134533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Beginner_to_Pro$20_iterators.coverage" NAME="20_iterators Coverage Results" MODIFIED="1632223499693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
