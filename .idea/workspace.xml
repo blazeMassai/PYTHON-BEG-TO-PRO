@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9d42fd4-f52a-4e9a-b775-be8bd55a34be" name="Default Changelist" comment="" />
+    <list default="true" id="d9d42fd4-f52a-4e9a-b775-be8bd55a34be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Python-Beginner-to-Pro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Beginner-to-Pro.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-machine-learning/7-ML-Polynomial-Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/30-machine-learning/7-ML-Polynomial-Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-machine-learning/8-R_Squared.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/30-machine-learning/8-R_Squared.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,22 +17,30 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="b5f0d24a-4430-4046-b42d-1fe8486763fb" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1uwGySgZZWLjkO3z8ilrBce4IKi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;
+  }
+}</component>
   <component name="RunManager" selected="Python.20_iterators">
     <configuration name="20_iterators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Beginner-to-Pro" />
@@ -79,6 +93,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -119,46 +134,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="784" y="88" key="#Notifications" timestamp="1627887760429">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="784" y="88" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1627887760429" />
-    <state x="980" y="175" key="FileChooserDialogImpl" timestamp="1627887834924">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="980" y="175" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1627887834924" />
-    <state width="756" height="222" key="GridCell.Tab.0.bottom" timestamp="1632229842059">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="756" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1632229842059" />
-    <state width="756" height="222" key="GridCell.Tab.0.center" timestamp="1632229842059">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="756" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1632229842059" />
-    <state width="756" height="222" key="GridCell.Tab.0.left" timestamp="1632229842059">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="756" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1632229842059" />
-    <state width="756" height="222" key="GridCell.Tab.0.right" timestamp="1632229842059">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="756" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1632229842059" />
-    <state x="461" y="52" key="SettingsEditor" timestamp="1627617248067">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="461" y="52" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1627617248067" />
-    <state x="789" y="280" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1625569904917">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="789" y="280" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1600.860@0.0.1600.860" timestamp="1625569904917" />
-    <state x="863" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1632232507791">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="863" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1632232507791" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Beginner_to_Pro$5_operators.coverage" NAME="5_operators Coverage Results" MODIFIED="1631784134533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Beginner_to_Pro$20_iterators.coverage" NAME="20_iterators Coverage Results" MODIFIED="1632223499693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
