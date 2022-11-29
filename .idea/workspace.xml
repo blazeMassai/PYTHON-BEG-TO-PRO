@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9d42fd4-f52a-4e9a-b775-be8bd55a34be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python-Beginner-to-Pro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Beginner-to-Pro.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28-numpy/1-basics-numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/28-numpy/1-basics-numpy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/29-scipy/3-optimizers.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/29-scipy/3-optimizers.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-machine-learning/4-ML-scatter-plot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/30-machine-learning/4-ML-scatter-plot.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/30-machine-learning/7-ML-Polynomial-Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/30-machine-learning/7-ML-Polynomial-Regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30-machine-learning/8-R_Squared.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/30-machine-learning/8-R_Squared.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-machine-learning/9-Multiple-Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/30-machine-learning/9-Multiple-Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-machine-learning/cars-headed1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-machine-learning/cars.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-machine-learning/emis.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
